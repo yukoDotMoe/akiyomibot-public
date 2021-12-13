@@ -15,6 +15,6 @@
 Nhằm cải thiện chất lượng bot thì mình đã tạo cái này để quản lý và cho phép các bạn góp ý thêm về bot cũng như report những lỗi
 có trong bot để khi sử dụng bot được tốt hơn.
 
-Khi tạo 'Issues' thì bạn nhớ chú ý prefix nhe, để mình phân biệt được và sửa / cải thiện bot
+Khi tạo 'Issues' thì bạn nhớ chú ý **Label** nhe, để mình phân biệt được và sửa / cải thiện bot
 
 Cảm ơn bạn đã ghé thăm uwu

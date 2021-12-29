@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://cdn.discordapp.com/avatars/829386490810204231/3cd7dc7823614c9a2130ef4c75e04b58.webp" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/avatars/829386490810204231/cdd2374b48192b340fa953d3598c5ef0.webp" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">UWOOOOOOHHHHH SEGGGGGGGGG</h3>
   <p align="center">
